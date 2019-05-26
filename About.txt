@@ -1,0 +1,11 @@
+Functionalities
+- Reprompts user for input that is not alphabetical
+- Works with uppercase and lowercase indistinctively
+- Program exits after one round. 
+- Accepts words guesses (Geek Out)
+- Reads the word from an external list (Ninja)
+
+Extras:
+- Stores the user inputs, and every time user repeats an entered value, warns the user about the repetition. Doesn't deduct a try for that.
+- If the guess isn't the same length of the secret word, warns the user. Doesn't deduct a try.
+- The game is explained with a cool typewriter delayed print.
